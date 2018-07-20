@@ -33,7 +33,7 @@ See [Release Note](https://github.com/TG-Monitor/applicaton-cli/releases/tag/0.0
 
 - [Dockerfile](Dockerfile) for creating a Docker image of the application
 - [docker-run.sh](docker-run.sh): command for running the Docker image
-- Docker Hub: [`weibeld/tg-monitor:0.0.4-cli`](https://hub.docker.com/r/weibeld/tg-monitor/tags/)
+- Image on [Docker Hub](https://hub.docker.com/r/weibeld/tg-monitor/tags/): `weibeld/tg-monitor:0.0.4-cli`
 
 
 ## Documentation
