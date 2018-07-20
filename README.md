@@ -19,6 +19,10 @@ TG-Monitor application with CLI user interface.
 - [main-0.0.4.zip](main-0.0.4.zip): standalone executable distribution archive of the application containing all code dependencies.
     - Created with Gradle `distZip` task of the [Distribution Plugin](https://docs.gradle.org/current/userguide/distribution_plugin.html).
 
+## Code Dependencies
+
+See [Release Note](https://github.com/TG-Monitor/applicaton-cli/releases/tag/0.0.4)
+
 ## Platform Dependencies
 
 - Java ≥ 8u91
