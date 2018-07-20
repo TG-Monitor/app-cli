@@ -13,4 +13,4 @@ docker run -ti \
   -e MAILGUN_DOMAIN="$MAILGUN_DOMAIN" \
   -e MAILGUN_SENDING_ADDRESS="$MAILGUN_SENDING_ADDRESS" \
   -v tg-monitor:/var/tmp/tg-monitor \
-  weibeld/tg-monitor:0.0.4
+  weibeld/tg-monitor:0.0.4-cli
