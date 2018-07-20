@@ -29,6 +29,8 @@ TG-Monitor application with CLI user interface.
 
 - [Dockerfile](Dockerfile) for creating a Docker image of the application
 - [docker-run.sh](docker-run.sh): command for running the Docker image
+- Docker Hub: [`weibeld/tg-monitor:0.0.4-cli`](https://hub.docker.com/r/weibeld/tg-monitor/tags/)
+
 
 ## Documentation
 
