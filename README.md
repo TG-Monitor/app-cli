@@ -21,7 +21,16 @@ TG-Monitor application with CLI user interface.
 
 ## Component Versions
 
-See [Release Note](https://github.com/TG-Monitor/applicaton-cli/releases/tag/0.0.4)
+- [tgmc-main 0.0.4](https://github.com/TG-Monitor/tgmc-main/releases/tag/0.0.4)
+- [tgmc-cli 0.0.4](https://github.com/tg-monitor/tgmc-cli/releases/tag/0.0.4)
+- [tgm-monitor 0.0.3](https://github.com/tg-monitor/tgm-monitor/releases/tag/0.0.3)
+- [tgm-backend 0.0.3](https://github.com/tg-monitor/tgm-backend/releases/tag/0.0.3)
+- [tgm-telegram 0.0.3](https://github.com/tg-monitor/tgm-telegram/releases/tag/0.0.3)
+- [tgm-notification 0.0.4](https://github.com/tg-monitor/tgm-notification/releases/tag/0.0.4)
+- [tgm-matching 0.0.3](https://github.com/tg-monitor/tgm-matching/releases/tag/0.0.3)
+- [tgm-servicelocator-instances 0.0.3](https://github.com/tg-monitor/tgm-servicelocator-instances/releases/tag/0.0.3)
+- [tgm-entities 0.0.1](https://github.com/tg-monitor/tgm-entities/releases/tag/0.0.1)
+- [tgm-servicelocator 0.0.1](https://github.com/tg-monitor/tgm-servicelocator/releases/tag/0.0.1)
 
 ## Platform Dependencies
 
