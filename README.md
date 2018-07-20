@@ -1,22 +1,24 @@
 # TG-Monitor CLI Application
 
+![Component Architecture](doc/components.png)
 
+## Contents
 
-## Distribution
+### Distribution
 
-- [main-0.0.4.zip](main-0.0.4.zip): standalone executable distribution archive of the application containing all the Java dependencies.
-    - Created with Gradle by the `distZip` task of the [Distribution Plugin](https://docs.gradle.org/current/userguide/distribution_plugin.html).
+- [main-0.0.4.zip](main-0.0.4.zip): standalone executable distribution archive of the application containing all code dependencies.
+    - Created with Gradle `distZip` task of the [Distribution Plugin](https://docs.gradle.org/current/userguide/distribution_plugin.html).
 
-### Platform Dependencies
+#### Platform Dependencies
 
-- JRE >= 8u91
-- [Telethon](https://github.com/LonamiWebs/Telethon) >= 1.0
+- Java Runtime Environment (JRE) ≥ 8u91
+- [Telethon 1.04](https://github.com/LonamiWebs/Telethon/releases/tag/v1.0.4)
 
-## Docker
+### Docker
 
-- [Dockerfile](Dockerfile): Dockerfile for creating a Docker image of the application
+- [Dockerfile](Dockerfile) for creating a Docker image of the application
 - [docker-run.sh](docker-run.sh): command for running the Docker image
 
-## Documentation
+### Documentation
 
-![Component Architecture](doc/components.pdf)
+- Various documentations about the architecture and other aspects in [docs/](docs)
