@@ -1,8 +1,19 @@
 # TG-Monitor CLI Application
 
+**Version: 0.0.4**
+
+TG-Monitor application with CLI user interface.
+
+## Notes
+
+- The CLI runs in the same process as the monitor, thus, quitting the CLI terminates the monitor.
+- Logged-in Telegram session is saved persistently in `/var/tmp/tg-monitor/telethon` on local machine. So, there is no need to log in at each run of the application.
+
+## Component Architecture
+
 ![Component Architecture](doc/components.png)
 
-## Contents
+## Repository Contents
 
 ### Distribution
 
@@ -21,4 +32,4 @@
 
 ### Documentation
 
-- Various documentations about the architecture and other aspects in [docs/](docs)
+- Various documentations about the architecture and other aspects in [doc/](doc)
