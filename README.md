@@ -11,7 +11,7 @@ TG-Monitor application with CLI user interface.
 
 ## Component Architecture
 
-![Component Architecture](doc/components.png)
+![Component Architecture](doc/tg-monitor-cli.png)
 
 
 ## Distribution
